@@ -7,7 +7,7 @@ ilerleyecek ve farklı zorluklarla karşılaşacak. Öldüğünde ya da
 yeniden başlandığında kiraz sayıları yani skor sıfırlanacaktır.
 
 
-# Game Image#
+# Game Image #
 
 ![OyunGirişMenu](https://github.com/gulsevim-blbl/CherryHunter/assets/73358343/df405cea-be0d-4d8f-b0a5-90fd255eb8b5)
 ![Ekran görüntüsü 2024-01-19 002359](https://github.com/gulsevim-blbl/CherryHunter/assets/73358343/1a63cfde-666b-487d-bb87-fd5e43eb3d5a)
